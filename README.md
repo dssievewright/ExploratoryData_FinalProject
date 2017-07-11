@@ -1,12 +1,12 @@
 # Exploratory Data Analysis Final Project
 
-This project is for the MOOC "Exploratory Data Analysis" offered through Coursera and John Hopkins University.  The original data and documentation was gathered through the EPA.  See their [Air Emmisions Inventories website][https://www.epa.gov/air-emissions-inventories] for more information.
+This project is for the MOOC "Exploratory Data Analysis" offered through Coursera and John Hopkins University.  The original data and documentation was gathered through the EPA.  See their [Air Emmisions Inventories website](https://www.epa.gov/air-emissions-inventories) for more information.
 
 ## Data
 
 The data I am using has been cleaned up by the instructors and is available at 
 
-* [pm2.5 data][https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip]
+* [pm2.5 data](https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip)
 
 The zip file contains two files which will be read in as
 NEI <- readRDS("summarySCC_PM25.rds")
