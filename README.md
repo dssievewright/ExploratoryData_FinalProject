@@ -9,8 +9,10 @@ The data I am using has been cleaned up by the instructors and is available at
 * [pm2.5 data](https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip)
 
 The zip file contains two files which will be read in as
+```R
 NEI <- readRDS("summarySCC_PM25.rds")
 SCC <- readRDS("Source_Classification_Code.rds")
+```
 
 Each .R file in the repo will assume NEI and SCC have been read into R.  
 
